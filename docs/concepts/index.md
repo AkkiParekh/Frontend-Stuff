@@ -1,5 +1,5 @@
 # Awesome Javascript Concepts
 
-- Hoisting in Javascript
-- Function Currying in Javascript
-- Closures in Javascript
+- [Hoisting in Javascript](hoisting.md)
+- [Function Currying in Javascript](currying.md)
+- [Closures in Javascript](closures.md)
