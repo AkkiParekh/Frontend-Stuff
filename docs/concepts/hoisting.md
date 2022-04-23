@@ -6,6 +6,20 @@ In JavaScript, Hoisting is the default behavior of moving all the declarations a
 
 It allows us to call functions before even writing them in our code. 
 
+
 > Note: JavaScript only hoists declarations, not the initializations.
 
+
 JavaScript allocates memory for all variables and functions defined in the program before execution.
+
+**Let us understand what exactly this is:**
+The following is the sequence in which variable declaration and initialization occur. 
+
+### **Declaration –> Initialisation/Assignment –> Usage** 
+
+```
+// Variable lifecycle
+let a;        // Declaration
+a = 100;      // Assignment
+console.log(a);  // Usage
+```
