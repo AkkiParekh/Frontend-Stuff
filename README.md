@@ -1,4 +1,6 @@
 # Resources for Frontend Engineers
 
-- Javascript Concepts
-- Javascript Programs
+- Awesome Javascript Concepts
+- Fun Javascript Programs
+- Cool Javascript Shortcuts
+- Performance Improvements
