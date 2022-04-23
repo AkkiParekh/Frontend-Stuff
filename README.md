@@ -6,3 +6,5 @@
 - Performance Improvements
 - Data-structures in Javascript
 - Javascript Algorithms
+- Interview Resurces
+- JS frameworks
