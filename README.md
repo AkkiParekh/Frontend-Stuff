@@ -1,1 +1,1 @@
-# UseFul Resources for Frontend Engineers
+# Resources for Frontend Engineers
