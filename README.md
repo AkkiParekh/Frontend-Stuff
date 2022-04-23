@@ -1,6 +1,6 @@
 # Resources for Frontend Engineers
 
-- [Awesome Javascript Concepts](/concepts/index.md)
+- [Awesome Javascript Concepts](concepts/index.md)
 - Fun Javascript Programs
 - Cool Javascript Shortcuts
 - Performance Improvements
