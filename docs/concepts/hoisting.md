@@ -9,6 +9,7 @@ JavaScript allocates memory for all variables and functions defined in the progr
 
 > Note: JavaScript only hoists declarations, not the initializations.
 
+
 **Let us understand what exactly this is:**
 The following is the sequence in which variable declaration and initialization occur. 
 
