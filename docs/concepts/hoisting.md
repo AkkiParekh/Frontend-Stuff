@@ -23,3 +23,14 @@ let a;        // Declaration
 a = 100;      // Assignment
 console.log(a);  // Usage
 ```
+
+However, since JavaScript allows us to both declare and initialize our variables simultaneously, this is the most used pattern:  
+
+```
+let a = 100;
+```
+
+> **Note**: Always remember that in the background the Javascript is first declaring the variable and then initializing them. It is also good to know that variable declarations are processed before any code is executed. 
+
+However, in javascript, undeclared variables do not exist until code assigning them is executed. Therefore, assigning a value to an undeclared variable implicitly creates it as a global variable when the assignment is executed. This means that all undeclared variables are global variables.
+
